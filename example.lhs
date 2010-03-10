@@ -24,7 +24,7 @@
 \begin{code}
 {-# LANGUAGE ScopedTypeVariables #-}
 
-module HaskellFmt where
+module Example where
 
 import Prelude hiding (lookup)
 import Data.Set (Set)
